@@ -1,7 +1,7 @@
 fastapi==0.115.6
 uvicorn[standard]==0.34.0
 python-multipart==0.0.20
-torch==2.6.0
+torch==2.9.0
 torchvision==0.21.0
 facenet-pytorch==2.6.0
 pillow==11.1.0
